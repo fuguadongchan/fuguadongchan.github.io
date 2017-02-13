@@ -2,7 +2,7 @@
 layout: page
 title: "Contact"
 description: "煮酒待君来"
-header-img: "img/grass.jpg"
+header-img: "img/contact.jpg"
 ---
 
 
