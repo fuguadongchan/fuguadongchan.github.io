@@ -19,5 +19,29 @@ header-img: "img/th.jpg"
 
 
 
-<iframe  style="zoom:50%" frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=a0308bz4yp2&tiny=0&auto=0" allowfullscreen></iframe>
+<div class="aspect-ratio">
 
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=a0308bz4yp2&tiny=0&auto=0" allowfullscreen></iframe>
+
+</div>
+
+
+
+<style>
+
+.aspect-ratio {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56%;
+}
+
+
+.aspect-ratio iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+</style>
