@@ -29,12 +29,6 @@ header-img: "img/th.jpg"
 
 
 
-<embed src="http://music.163.com/outchain/player?type=0&id=34282999&auto=0&height=430" width="340" height="86"  allowNetworking="all">
-
-
-
-
-
 <center>
 
 <embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=8278665&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
