@@ -15,6 +15,6 @@ header-img: "img/th.jpg"
 
 <center>
 
-​	<iframe width="720" height="405" src="https://www.youtube.com/embed/862r3XS2YB0" frameborder="0" allowfullscreen></iframe>
+​	<iframe width="100%" src="https://www.youtube.com/embed/862r3XS2YB0" frameborder="0" allowfullscreen></iframe>
 
 </center>
