@@ -35,6 +35,12 @@ header-img: "img/th.jpg"
 
 </div>
 
+<iframe src="http://music.163.com/outchain/player?type=0&amp;id=34238509&auto=0&height=430" width="100%" height="450" frameborder="no" marginwidth="0" marginheight="0"></iframe>
+
+
+
+<iframe src="http://music.163.com/outchain/player?type=2&amp;id=299757&amp;auto=0&amp;height=66" width="95%" height="86" frameborder="no" marginwidth="0" marginheight="0"></iframe>
+
 
 
 <center>
