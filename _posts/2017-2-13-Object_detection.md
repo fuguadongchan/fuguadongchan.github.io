@@ -1,4 +1,12 @@
-# RCNN->fast-RCNN->faster-RCNN
+---
+layout: post
+title: RCNN->fast-RCNN->faster-RCNN
+categories: [blog ]
+description:
+comments: true
+published: true
+header-img: "img/fantasy.jpg"
+---
 
 RCNN : Region proposal + CNN
 

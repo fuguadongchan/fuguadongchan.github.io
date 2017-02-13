@@ -1,16 +1,12 @@
-### 我需要知道什么
-
-1. 论文目的
-2. 评价体系
-3. 结构体系
-4. 训练和预测过程
-5. 提升结果
-6. 结论 and why does it work?
-7. 缺点和可以改进的地方
-
-
-
-### Online Multi-Object Tracking by Decision Making
+---
+layout: post
+title: Online Multi-Object Tracking by Decision Making
+categories: [blog ]
+description:
+comments: true
+published: true
+header-img: "img/fantasy.jpg"
+---
 
 1. Online MOT
 
