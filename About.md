@@ -21,11 +21,7 @@ header-img: "img/th.jpg"
 
 
 
-<center>
-
-<embed src="//music.163.com/style/swf/widget.swf?sid=17110575&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
-
-</center>
+<iframe src="https://music.163.com/outchain/player?type=0&id=131415785&auto=0&height=430" width="100%" height="450" frameborder="no" marginwidth="0" marginheight="0"></iframe>
 
 
 
