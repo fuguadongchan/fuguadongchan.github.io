@@ -6,6 +6,9 @@ description:
 comments: true
 published: true
 header-img: "img/18.jpg"
+tags:
+     - Deep Learning
+     - RCNN
 ---
 
 RCNN : Region proposal + CNN
