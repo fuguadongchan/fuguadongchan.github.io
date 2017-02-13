@@ -21,11 +21,15 @@ header-img: "img/th.jpg"
 
 
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=17110575&auto=1&height=66">
+<embed src="//music.163.com/style/swf/widget.swf?sid=17110575&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
 
 
+
+<center>
 
 <embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=8278665&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
+
+</center>
 
 
 
