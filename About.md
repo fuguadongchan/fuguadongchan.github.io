@@ -33,7 +33,7 @@ header-img: "img/th.jpg"
   position: relative;
   width: 100%;
   height: 0;
-  padding-bottom: 56%;
+  padding-bottom: 60%;
 }
 
 
