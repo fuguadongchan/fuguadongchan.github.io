@@ -29,17 +29,9 @@ header-img: "img/th.jpg"
 
 
 
-<div align="center">
-
-<iframe height="450" marginheight="0" border="0" src="http://music.163.com/outchain/player?type=0&id=34282999&auto=0&height=430" frameborder="no" width="330" marginwidth="0"></iframe>
-
-</div>
-
-<iframe src="http://music.163.com/outchain/player?type=0&amp;id=34238509&auto=0&height=430" width="100%" height="450" frameborder="no" marginwidth="0" marginheight="0"></iframe>
+<embed src="http://music.163.com/outchain/player?type=0&id=34282999&auto=0&height=430" width="340" height="86"  allowNetworking="all">
 
 
-
-<iframe src="http://music.163.com/outchain/player?type=2&amp;id=299757&amp;auto=0&amp;height=66" width="95%" height="86" frameborder="no" marginwidth="0" marginheight="0"></iframe>
 
 
 
