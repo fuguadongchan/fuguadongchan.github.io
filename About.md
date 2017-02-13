@@ -13,7 +13,8 @@ header-img: "img/th.jpg"
 
 我是csg。
 
+<center>
 
+​	<iframe width="1120" height="630" src="https://www.youtube.com/embed/862r3XS2YB0" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/862r3XS2YB0" frameborder="0" allowfullscreen></iframe>
-
+</center>
