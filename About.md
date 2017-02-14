@@ -21,7 +21,7 @@ header-img: "img/th.jpg"
 
 <div class="aspect-ratio">
 
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=a0308bz4yp2&tiny=0&auto=0" allowfullscreen></iframe>
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMjUwODU4NzM0MA==' frameborder=0 'allowfullscreen'></iframe>
 
 </div>
 
@@ -33,7 +33,7 @@ header-img: "img/th.jpg"
   position: relative;
   width: 100%;
   height: 0;
-  padding-bottom: 60%;
+  padding-bottom: 56%;
 }
 
 
