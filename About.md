@@ -21,7 +21,7 @@ header-img: "img/th.jpg"
 
 <div class="aspect-ratio">
 
-<iframe height="498" width="510" src="http://player.youku.com/embed/XMjUwODU4NzM0MA==" frameborder="0" "allowfullscreen"></iframe>
+<iframe frameborder="0" width="640" height="498" src="https://player.youku.com/embed/XMjUwODU4NzM0MA==" allowfullscreen></iframe>
 
 </div>
 
