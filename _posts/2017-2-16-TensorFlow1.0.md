@@ -15,6 +15,8 @@ tags:
 
 <div class="aspect-ratio">
 
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4n1AHvDvVvw" frameborder="0" allowfullscreen></iframe>
 
 </div>
@@ -45,9 +47,7 @@ TensorFlow 1.0 的其它亮点：
 
 
 
-附上Github地址：[https://github.com/tensorflow/tensorflow/releases/tag/v1.0.0](https://link.zhihu.com/?target=https%3A//github.com/tensorflow/tensorflow/releases/tag/v1.0.0)
-
-
+附上Github地址：[https://github.com/tensor...](https://github.com/tensorflow/tensorflow/releases/tag/v1.0.0)
 
 
 
