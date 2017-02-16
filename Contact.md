@@ -6,4 +6,14 @@ header-img: "img/contact.jpg"
 ---
 
 
-知乎，微信
+
+<center>
+
+微信，扫码加好友
+
+```
+<p><img src="/img/weixin.jpg" align="center"></p>
+```
+
+</center>
+
