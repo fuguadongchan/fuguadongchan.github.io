@@ -1,14 +1,14 @@
 ---
 layout: post
-title: TensorFlow 1.0
+title: TensorFlow 1.0 Come !
 categories: [blog ]
 description:
 comments: true
 published: true
 header-img: "img/18.jpg"
 tags:
-	- Deep Learning
-	- TensorFlow
+     - Deep Learning
+     - TensorFlow
 ---
 
 Keynote (TensorFlow Dev Summit 2017)
