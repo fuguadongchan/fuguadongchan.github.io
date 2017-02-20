@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TensorFlow 1.0 Come !
+title: TensorFlow 1.0 时代 !
 categories: [blog ]
 description:
 comments: true
