@@ -59,4 +59,4 @@ The futrue work
 
 2D pose estimation --> human part segmentation
 
-<p><img src="/img/blog/1.png" align="center"></p>
+<p><img src="/img/blog/hourglass/1.png" align="center"></p>
