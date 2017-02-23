@@ -13,7 +13,7 @@ tags:
 
 *hourglass 沙漏*
 
-1. human pose edtimation —— a key toward understanding people in image
+1. human pose estimation —— a key toward understanding people in image
 
    **input** : single man in the single RGB image
 
@@ -52,3 +52,11 @@ tags:
 6. *This work introduces a novel convolutional network architecture for the task of human pose estimation. Features are processed across all scales and consolidated to best capture the various spatial relationships associated with the body. We show how repeated bottom-up, top-down processing used in conjunction with intermediate supervision is critical to improving the performance of the network. We refer to the architecture as a “stacked hourglass” network based on the successive steps of pooling and upsampling that are done to produce a final set of predictions.*
 
 7. only work in the case of single man in image
+
+
+
+The futrue work
+
+2D pose estimation --> human part segmentation
+
+<p><img src="/img/blog/1.png" align="center"></p>
