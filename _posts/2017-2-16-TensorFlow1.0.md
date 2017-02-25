@@ -13,16 +13,6 @@ tags:
 
 
 
-<div class="aspect-ratio">
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4n1AHvDvVvw" frameborder="0" allowfullscreen></iframe>
-
-</div>
-
-
-
 今天，在山景城召开了第一届年度 TensorFlow 开发者大会（TensorFlow Developer Summit），本次盛会也已经在 YouTube 上开启了直播。在本次大会上，谷歌也正式宣布发布 TensorFlow 1.0 正式版。
 
 
@@ -68,6 +58,3 @@ TensorFlow 1.0 的其它亮点：
   top: 0;
 }
 </style>
-
-
-
